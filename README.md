@@ -40,4 +40,7 @@ A GitOps-managed Kubernetes platform for real-time sentiment data, deployed via 
 
 ## 📫 Reach Me
 
+- 🌐 Portfolio: [portfolio-sandy-chi-22.vercel.app](https://portfolio-sandy-chi-22.vercel.app/)
+- 💼 LinkedIn: [Khải Đào](https://www.linkedin.com/in/kh%E1%BA%A3i-%C4%91%C3%A0o-043035292/)
+- 📧 Email: [daok257@gmail.com](mailto:daok257@gmail.com)
 - GitHub: [@khaidao2](https://github.com/khaidao2)
